@@ -1,2 +1,2 @@
 # S3-Metadata
-S3 metadata using Python and boto3
+Read/Write S3 metadata using Python and boto3
